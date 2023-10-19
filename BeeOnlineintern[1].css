@@ -1,0 +1,267 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+* {
+    font-family: "Roboto";
+}
+
+.study-logo {
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+
+
+
+
+
+
+
+
+
+
+.card-1 {
+    order: 1;
+}
+
+.card-2 {
+    order: 2;
+}
+
+.home-section {
+    background-color: #f9fbfe;
+    padding: 20px;
+}
+
+.home-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.call-btn {
+    background-color: transparent;
+    border-width: 2px;
+    padding: 5px;
+    border-radius: 9px;
+}
+
+.home-section-description {
+    color: black;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.wcu-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+.wcu-card-image {
+    width: 87px;
+    height: 90px;
+}
+
+.wcu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.wcu-card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+
+
+.page-1-section {
+    background-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+.why-us-section {
+    background-color: #f9fbfe;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.follow-us-section {
+    background-color: white;
+}
+
+.follow-us-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+    text-align: center;
+}
+
+.footer-section {
+    background-color: #0d2436;
+}
+
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.image {
+    width: 300px;
+    margin-right: 20px;
+}
+
+ol {
+    color: #EEED09;
+}
+
+li {
+    font-weight: bold;
+    font-size: 20px;
+    list-style: #EEED09;
+}
+
+.list-content {
+    color: black;
+    font-weight: 200;
+    font-size: 18px;
+}
+
+.australia-heading {
+    font-weight: bold;
+    font-size: 33px;
+}
+
+.universities-logos {
+    width: 80px;
+    margin: 10px;
+}
+
+.universities-2-logos {
+    width: 90px;
+    margin: 10px;
+}
+
+.why-us-card-1 {
+    background-color: #d0b2001a;
+    border-radius: 9px;
+    padding: 14px;
+    height: 150px;
+    padding-bottom: 8px;
+}
+
+.card-containig {
+    margin-top: 10px;
+    margin-bottom: 16px;
+    margin-right: 28px;
+}
+
+.abt-aust {
+    margin-top: 10px;
+    background-color: #EEED09;
+}
+
+.heading {
+    color: #183b56;
+    font-family: "roboto";
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.help-abt-btn {
+    background-color: #EEED09;
+    border-width: 0;
+    color: #000000;
+    border-radius: 7px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.why-us-card-1:hover {
+    background-color: #EEED09;
+    color: black;
+}
+
+.sub-card-header {
+    color: #6ACF65;
+}
+
+.sub-card-header:hover {
+    background-color: #ffffff;
+    width: 50px;
+    border-radius: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.speak-btn {
+    background-color: #ffffff;
+    border-radius: 9px;
+    padding: 10px;
+}
